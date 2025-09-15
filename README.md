@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @TheAnuRock
-- 👀 I’m interested in web designing, development,
-- 🌱 I’m currently learning CSIT
+- 👀 I’m interested in web designing, development, Full Stack developer 
+- 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
